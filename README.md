@@ -8,18 +8,19 @@
 
 <h1 align="center">Projects</h1>
 
-- Yurica Project
-    - Yurica.DiscordBot `(In dev)`
-    - Yurica.GameServerHosting `(Idea)`
-    - Yurica.WebSite `(Idea)`
-    - Yurica.Cloud `(Idea)`
-    - Yurica.CloudApplications `(Idea)`
-    - Yurica.CloudStorage `(Idea)`
-- Discord.C#
-    - Discord.CSharp.Core `(In dev)`
-    - Discord.CSharp.Activities `(Idea)`
-    - Discord.CSharp.ApplicationCommands `(Idea)`
-    - Discord.CSharp.Components `(Idea)`
-    - Discord.CSharp.TextCommands `(Idea)`
-    - Discord.CSharp.Voice `(Idea)`
-    - Discord.CSharp.RPC `(Idea)`
+## **[Yurica Project](https://github.com/YuricaProject)**
+- Yurica.DiscordBot `(In dev)`
+- Yurica.GameServerHosting `(Idea)`
+- Yurica.WebSite `(Idea)`
+- Yurica.Cloud `(Idea)`
+- Yurica.CloudApplications `(Idea)`
+- Yurica.CloudStorage `(Idea)`
+
+## **[Discord.C#]()**
+- Discord.CSharp.Core `(In dev)`
+- Discord.CSharp.Activities `(Idea)`
+- Discord.CSharp.ApplicationCommands `(Idea)`
+- Discord.CSharp.Components `(Idea)`
+- Discord.CSharp.TextCommands `(Idea)`
+- Discord.CSharp.Voice `(Idea)`
+- Discord.CSharp.RPC `(Idea)`
