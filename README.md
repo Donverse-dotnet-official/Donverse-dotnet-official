@@ -1,10 +1,10 @@
 <h1 align="center">Donverse.net</h1>
 
-[!TIP]
-This is the official account for [Donverse.net](https://donverse.net) on GitHub. This account is used to host the source code for the website and its related projects.
+> [!TIP]
+> This is the official account for [Donverse.net](https://donverse.net) on GitHub. This account is used to host the source code for the website and its related projects.
 
-[!NOTE]
-We are the developer community from Japan.
+> [!NOTE]
+> We are the developer community from Japan.
 
 <h1 align="center">Projects</h1>
 
